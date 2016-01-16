@@ -1,0 +1,60 @@
+
+/* 
+    Created on : 16.01.2016, 14:19:52
+    Author     : Daniela
+*/
+
+body{
+    background: #2c3e50; /* For browsers that do not support gradients */    
+    font-family:Open Sans,Helvetica Neue, Arial, sans-serif;
+    color:#666666;
+}
+#clockinner{
+    font-size:240%;
+    background:#eeeeee;
+    box-shadow:inset 0px 1px 2px #dddddd;
+    margin: 0 0.4em 0.5em 0.4em;
+    text-align:center;
+  
+}
+#clock{
+    height:auto;
+    display:block;
+    border:1px solid #375e80;
+    background:#FEFEFE;
+    box-shadow:1px 1px 2px #375e80;
+}
+
+.adbreakminutes,.adminutes{
+    font-size:120%;
+}
+#toprow{ background: #2980b9;}
+#title{color:#F6F7F2;}
+button{
+    background:#34495e;
+    color:#F6F7F2;
+    border:none;
+    padding:0.4em 0.8em 0.4em 0.8em;
+}
+#progressbar{
+    background:#F3F1F2;
+    box-shadow: inset 0px 1px 1px #dddddd;
+}
+#clockcontainer{height:50%;}
+#adsettings{
+    display:inline;
+    color:#F6F7F2;
+  padding:0.2em 0.9em 0 0;
+    font-size:1.4em;
+}
+.adminutes,.adbreakminutes{padding:0 0 0.3em 0;}
+#adbreakcont,#adsessioncont{color:#F6F7F2;   }
+#adbreakcont{ margin-top: 2.9em;}
+.adminutes{
+    margin:0.3em 0 0 0;
+}
+#adjustsettings button{
+    background:34495E;
+ font-size:1.2em;  
+}
+
